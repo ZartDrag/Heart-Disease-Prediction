@@ -3,7 +3,7 @@ This project is an end to end data science project that is able to predict the c
 ![](screenupdated.gif)
 
 # Dataset Used
-1. [Heart](https://www.kaggle.com/ronitf/heart-disease-uci): Heart Disease Dataset
+1. Heart: Heart Disease Dataset
 
 # Libraries Used:
  1. Sci-kit Learn
